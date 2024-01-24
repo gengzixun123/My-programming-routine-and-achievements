@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MFC - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP78CA.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/MFC.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\EditC-C++\vc++\MFC\MFCView.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP78CA.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/MFC.pdb" /debug /machine:I386 /out:"Debug/MFC.exe" /pdbtype:sept  ".\Debug\MFC.obj" ".\Debug\StdAfx.obj" ".\Debug\MainFrm.obj" ".\Debug\MFCDoc.obj" ".\Debug\MFCView.obj" ".\Debug\MFC.res" "
+<h3>Output Window</h3>
+Compiling...
+MFCView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+MFC.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
